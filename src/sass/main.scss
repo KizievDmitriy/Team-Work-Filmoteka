@@ -9,7 +9,9 @@
 @import './utils/placeholder';
 
 // components
-
+@import './layouts/header';
+@import './layouts/gallery';
+@import './layouts/footer';
 
 //layouts
-
+@import './layouts/modal';
